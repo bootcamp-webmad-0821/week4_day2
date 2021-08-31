@@ -1,0 +1,26 @@
+.navbar {
+    margin-bottom: 80px;
+}
+
+
+footer {
+    background-color: #343a40;
+    font-size: .7em;
+    text-align: center;
+    color: white;
+    padding: 4px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.player-card {
+    margin-bottom: 40px;
+}
+
+
+.player-card img {
+    height: 200px;
+    object-fit: cover;
+}
